@@ -120,11 +120,11 @@ How to generate or create Sitemap and add google search console
 </p>
 
 
-[<img src="youtubetutorial_247.JPG" width="50%">](https://www.youtube.com/watch?v=m-DU_wlHgTo "How to generate or create Sitemap file for any website")
+[<img src="youtubetutorial_257.JPG" width="50%">](https://www.youtube.com/watch?v=m-DU_wlHgTo "How to generate or create Sitemap file for any website")
 
 <hr>
 
-[<img src="youtubetutorial_247.JPG" width="50%">](https://www.youtube.com/watch?v=eX9AjP59iV4 "How to generate or create Sitemap file for any website")
+[<img src="youtubetutorial_257.JPG" width="50%">](https://www.youtube.com/watch?v=eX9AjP59iV4 "How to generate or create Sitemap file for any website")
 
 <ul>
     <li><a href="https://www.xml-sitemaps.com/">https://www.xml-sitemaps.com/</a></li>
