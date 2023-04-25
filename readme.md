@@ -1,14 +1,14 @@
-#### Wrap Your Blog Post Title in an H1 Tag
+#### 1) Wrap Your Blog Post Title in an H1 Tag
 
 
-#### Wrap Subheadings in H2 Tags
+#### 2) Wrap Subheadings in H2 Tags
 
 <p>
 Include your target keyword in at least one subheading. 
 And wrap that subheading in an H2 tag.
 </p>
 
-#### Keyword Frequency
+#### 3) Keyword Frequency
 
 <p>
 Keyword Frequency is just like it sounds: It’s how many times your keyword appears in your content.
@@ -18,12 +18,12 @@ Keyword Frequency is just like it sounds: It’s how many times your keyword app
 Try not to repeat the keyword phrase more than two times per page
 </p>
 
-#### Use External (Outbound) Links
+#### 4) Use External (Outbound) Links
 
 <p>External links are links on your site that point to other sites.</p>
 
 
-#### Add Internal Links
+#### 5) Add Internal Links
 
 <ul>
    <li> 
@@ -42,15 +42,15 @@ Try not to repeat the keyword phrase more than two times per page
 </ul>
 
 
-#### Front-load Your Title tag
+#### 6) Front-load Your Title tag
 
 <p> title tag is the most important on-page SEO factor</p>
 <p>title tag gives search engines a high-level overview of what your page is all about</p>
 
-#### Use Unique, Keyword-Rich Meta Descriptions
+#### 7) Use Unique, Keyword-Rich Meta Descriptions
 
 
-#### Image Optimization
+#### 8) Image Optimization
 
 <p>You want to give every image on your site a 
 descriptive filename and alt text.</p>
@@ -93,7 +93,7 @@ Having a sitemap is an important part of SEO. Sitemaps help Google discover your
    the most important pages on your site. 
 </p>
 
-### Best XML Sitemap Generators
+## Best XML Sitemap Generators
 
 <p>
 How to generate or create Sitemap and add google search console
@@ -112,7 +112,7 @@ How to generate or create Sitemap and add google search console
     <li><a href="http://www.sitemapwriter.com/">http://www.sitemapwriter.com/</a></li>
 </ul>
 
-###  Google Search Console?
+##  Google Search Console?
 
 <ul>
    <li>Review how your site is performing on Google</li>
