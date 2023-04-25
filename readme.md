@@ -22,6 +22,22 @@ Try not to repeat the keyword phrase more than two times per page
 
 <p>External links are links on your site that point to other sites.</p>
 
+<p>
+A link (also known as a backlink) is a hyperlink that will direct a user from one page to another target page when clicked. 
+Applied to a page by adding code like this:
+</p>
+
+```html
+
+ <a href="http://www.domain.com/">target keyword</a>
+
+```
+
+<p>
+An external link is any hyperlink or backlink, 
+that points to a target page on another domain from the domain it’s published on. 
+It’s external to the host domain.
+</p>
 
 #### 5) Add Internal Links
 
